@@ -1,0 +1,104 @@
+ [
+    {
+        "name": "Pen Drive",
+        "price": 10.50,
+        "stock": 5
+    },
+    {
+        "name": "Hard Disk",
+        "price": 57.99,
+        "stock": 6
+    },
+    {
+
+        "name": "Fidget Spinner",
+        "price": 3.50,
+        "stock": 10
+    },
+    {
+
+        "name": "Mobile case",
+        "price": 12.99,
+        "stock": 8
+    },
+    {
+        "name": "Ray-Ban Men's Sunglass",
+        "price": 93.00,
+        "stock": 10
+    },
+    {
+        "name": "Nikon D3400",
+        "price": 600.00,
+        "stock": 5
+    },
+    {
+        "name": "Pilot GelPen",
+        "price": 11.00,
+        "stock": 20
+    },
+    {
+        "name": "Watch",
+        "price": 60.50,
+        "stock": 16
+    },
+    {
+        "name": "Men's Wallet",
+        "price": 20.50,
+        "stock": 3
+    },
+    {
+        "name": "US Polo T-shirt",
+        "price": 60.00,
+        "stock": 11
+    },
+    {
+        "name": "Nike Shoe",
+        "price": 80.00,
+        "stock": 19
+    },
+    {
+        "name": "Plastic Bottle",
+        "price": 7.50,
+        "stock": 12
+    },
+    {
+        "name": "Moto E3 Power",
+        "price": 70.00,
+        "stock": 12
+    },
+    {
+        "name": "Swift TextBook",
+        "price": 20.50,
+        "stock": 10
+    },
+    {
+        "name": "Bluetooth Speaker",
+        "price": 30.50,
+        "stock": 10
+    },
+    {
+        "name": "Samsung LED Tv 30inch",
+        "price": 1500.50,
+        "stock": 13
+    },
+    {
+        "name": "Water Purifier",
+        "price": 235.50,
+        "stock": 13
+    },
+    {
+        "name": "USB Data Cabel",
+        "price": 12.20,
+        "stock": 10
+    },
+    {
+        "name": "Router",
+        "price": 20.50,
+        "stock": 10
+    },
+    {
+        "name": "Acer Keyboard",
+        "price": 12.50,
+        "stock": 8
+    }
+]
